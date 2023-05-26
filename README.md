@@ -14,7 +14,6 @@ INSTRUCTIONS:
 3. Paste some text into the text box (recommend not pasting a lot of text since it will use up your Open-Ai API usage).
 4. A Pop up will appear, and you can see the keywords extracted from your text input.
 <br />
-<br />
 Feel free to download this and mess around with it. The API is fairly straight forward and super interesting.
 Read the documentations here, https://platform.openai.com/docs/introduction.
 
