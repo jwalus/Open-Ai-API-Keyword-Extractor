@@ -8,6 +8,11 @@
 
 * {
   margin: 0;
+  padding: 0;
   scroll-behavior: smooth;
   box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(121, 230, 175);
 }
