@@ -1,7 +1,4 @@
-TEST PROJECT!!! WILL NOT WORK IF YOU DONT READ THE INSTRUCTIONS
-<br />
-for none technical users, you can watch a short gif of the keyword extractor in progress.
-https://gyazo.com/793c3e5349d24edc136d4d6bea312b3a
+TEST PROJECT!!! KEEP IN MIND IT WILL NOT WORK IF YOU DONT READ THE INSTRUCTIONS
 <br />
 <br />
 What does it do? Extract key keywords from any of article, blog, or document by simply pasting them into the text box. <br />
